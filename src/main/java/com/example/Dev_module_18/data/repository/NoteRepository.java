@@ -1,6 +1,6 @@
-package com.example.Dev_module_16.data.repository;
+package com.example.Dev_module_18.data.repository;
 
-import com.example.Dev_module_16.data.entity.Note;
+import com.example.Dev_module_18.data.entity.Note;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

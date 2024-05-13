@@ -1,4 +1,4 @@
-package com.example.Dev_module_16.data.entity;
+package com.example.Dev_module_18.data.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
